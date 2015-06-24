@@ -1,0 +1,30 @@
+{
+  "name": "compare-build",
+  "version": "1.0.0",
+  "description": "Comparsion build between new version",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelijanowski/compare-build.git"
+  },
+  "keywords": [
+    "compare",
+    "version",
+    "screenshot"
+  ],
+  "author": "Marceli Janowski <marceli@mjdesign.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelijanowski/compare-build/issues"
+  },
+  "homepage": "https://github.com/marcelijanowski/compare-build",
+  "dependencies": {
+    "phantomjs": "^1.9.17"
+  },
+  "devDependencies": {
+    "eslint": "^0.23.0"
+  }
+}
