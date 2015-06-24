@@ -1,0 +1,19 @@
+{
+  "name": "compare-build",
+  "version": "1.0.0",
+  "homepage": "https://github.com/marcelijanowski/compare-build",
+  "authors": [
+    "Marceli Janowski <marceli@mjdesign.pl>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
