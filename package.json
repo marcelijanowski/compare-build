@@ -23,6 +23,7 @@
   "homepage": "https://github.com/marcelijanowski/compare-build",
   "dependencies": {
     "gulp": "^3.9.0",
+    "gulp-uglify": "^1.2.0",
     "phantomjs": "^1.9.17"
   },
   "devDependencies": {
@@ -31,6 +32,7 @@
     "gulp-babel": "^5.1.0",
     "gulp-eslint": "^0.14.0",
     "gulp-jade": "^1.0.1",
+    "gulp-watch": "^4.2.4",
     "jade": "^1.11.0"
   }
 }
